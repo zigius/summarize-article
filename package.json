@@ -1,0 +1,17 @@
+{
+  "name": "summarize-article-cli",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "summarize_article.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "3.0.0",
+    "yargs": "^17.6.2"
+  }
+}
